@@ -1,0 +1,12 @@
+Se tomaran en cuenta los siguientes parametros para calcular el monto total del deducible. 
+El precio inicial del deducible por choque es del 3% del costo del Vehiculo.
+Los vehículos del 2023 en adelante se aumenta un 11% de manera exponencial por año. 
+Si el vehículo tiene 4 llantas se aumenta el 7%.
+Si el vehículo tiene 6 llantas se aumenta el 15%.
+Si el vehículo tiene más de 6 llantas se aumenta el 17%.
+Si el vehículo tiene motor >= 2000 cc y <= 3500 cc se aumenta el 4.5%. 
+Si el vehículo tiene motor < 2000 cc se aumenta el 1.3%. 
+Si el vehículo tiene motor < 1500 cc se resta el 5.7%. 
+Por cada par de cilindros se aumenta el 4%, tomar en cuenta que hay vehículos 
+desde 1 a 8 cilindros. 
+

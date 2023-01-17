@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Imf2RSzRYBtAQwR7fNzIK9ZMZYxlCQsq5VfGTTL7vU/hf0njbCcKo3AEsOilMdH4kIiKobsiYt5+Zm7HZNeB0A==",
+  "success": true,
+  "projectFilePath": "D:\\Universidad\\SEGUNDO AÑO\\Programacion IIA\\Cuarto Trimestre\\Tareas Entregadas\\Proyecto Vickings SA 8vo\\Proyecto Parqueos 4to Unidad\\FORMPRINCIPAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando Jiménez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Fernando Jiménez\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Fernando Jiménez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Fernando Jiménez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

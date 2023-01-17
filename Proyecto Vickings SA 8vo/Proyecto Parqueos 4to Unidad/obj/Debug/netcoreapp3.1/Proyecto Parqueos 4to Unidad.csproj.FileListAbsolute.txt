@@ -1,0 +1,111 @@
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.exe
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.deps.json
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.json
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.dev.json
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.AssemblyReference.cache
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.FormPrincipal.resources
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.GenerateResource.cache
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfoInputs.cache
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfo.cs
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.CoreCompileInputs.cache
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.genruntimeconfig.cache
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.Properties.Resources.resources
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.VentanaAcercaDe.resources
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.VentanaLlenarFormulario.resources
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.exe
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.deps.json
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.json
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.FormPrincipal.resources
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.Properties.Resources.resources
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.VentanaAcercaDe.resources
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.VentanaLlenarFormulario.resources
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+C:\Users\DELL\Downloads\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.genruntimeconfig.cache
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.exe
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.deps.json
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.json
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.dev.json
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.AssemblyReference.cache
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.FormPrincipal.resources
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.Properties.Resources.resources
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.VentanaAcercaDe.resources
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.VentanaLlenarFormulario.resources
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.GenerateResource.cache
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfoInputs.cache
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfo.cs
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+C:\Users\Fernando Jimenez\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.genruntimeconfig.cache
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.exe
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.deps.json
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.json
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.dev.json
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.FormPrincipal.resources
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.Properties.Resources.resources
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.VentanaAcercaDe.resources
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.VentanaLlenarFormulario.resources
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+C:\Users\Jorge\Desktop\Proyecto Parqueos 4to Unidad\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.genruntimeconfig.cache
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.exe
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.deps.json
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.json
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.dev.json
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.AssemblyReference.cache
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.FormPrincipal.resources
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.Properties.Resources.resources
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.VentanaAcercaDe.resources
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.VentanaLlenarFormulario.resources
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.GenerateResource.cache
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfoInputs.cache
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfo.cs
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.CoreCompileInputs.cache
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+E:\Universidad\Programacion\Cuarto Trimestre\Tareas Entregadas\Proyecto Parqueos\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.exe
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.deps.json
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.json
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\bin\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.FormPrincipal.resources
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto_Parqueos_4to_Unidad.Properties.Resources.resources
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.dll
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.pdb
+C:\Users\DELL\Desktop\Proyecto Parqueos 4to Unidad - Definitivo 2\Proyecto Parqueos 4to Unidad\obj\Debug\netcoreapp3.1\Proyecto Parqueos 4to Unidad.genruntimeconfig.cache
